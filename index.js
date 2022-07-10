@@ -47,4 +47,4 @@ else if(message.content === prefix + "maj"){
 
 
 
-Client.login("OTg5MjM5NzE2NTU1NjY1NDYw.GmdhhZ.9putJfL5liLxAbd3if55O87-8blhIGMJjTD4c8")
+Client.login("OTg5MjM5NzE2NTU1NjY1NDYw.GmdhhZ.9putJfL5liLxAbd3if55O87-8blhIGMJjTD4c8 (doesn't work)")
